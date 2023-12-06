@@ -44,7 +44,7 @@ h4 {
 
 #align{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 #center{
     display: flex;
@@ -54,4 +54,7 @@ h4 {
     display: flex;
     justify-content: space-around;
 } 
-
+#c{
+    display: flex;
+    justify-content: space-around;
+}
