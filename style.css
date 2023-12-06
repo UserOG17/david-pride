@@ -50,4 +50,8 @@ h4 {
     display: flex;
     justify-content: space-around;
 }
+#cen{
+    display: flex;
+    justify-content: space-around;
+} 
 
