@@ -44,17 +44,17 @@ h4 {
 
 #align{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 #center{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 #cen{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 } 
 #c{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
