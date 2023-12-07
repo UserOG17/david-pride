@@ -163,3 +163,7 @@ h4 {
     display: flex;
     justify-content: space-between;
 }
+div{
+  display: flex;
+  justify-content: space-between;
+}
